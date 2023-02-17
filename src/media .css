@@ -1,0 +1,177 @@
+@media (max-width: 1000px) {
+  .aboutMe p {
+    width: 60%;
+    margin: auto;
+    font-size: 1.5vw;
+  }
+  .container__about h3 {
+    font-size: 20px;
+    padding: 5px;
+    text-align: center;
+  }
+  .getskillsme {
+    display: block;
+    width: 80%;
+    margin: auto;
+  }
+
+  .getMe {
+    width: 100%;
+    padding: 0;
+  }
+  .getMe p {
+    font-size: 15px;
+
+    margin-top: 20px;
+  }
+  .title h3 {
+    font-size: 30px;
+  }
+  .title p,
+  .description span {
+    display: block;
+    text-align: justify;
+    font-size: 15px;
+  }
+  .description h4 {
+    font-size: 20px;
+  }
+
+  .skillsMe {
+    width: 100%;
+    text-align: center;
+    overflow: visible;
+    margin: 0;
+  }
+  .img {
+    width: 120%;
+  }
+  .skillsmeMe {
+    
+    grid-template-columns: repeat(3, 90px);
+    grid-template-rows: repeat(3, 30%);
+    justify-content: center;
+    align-items: center;
+    grid-gap: 15px;
+  }
+  .skillsmeMe span{
+font-size: 13px;
+  }
+  .container__PROJECTS {
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+  }
+  .containerProyests,
+  .containertwo {
+    display: flex;
+    flex-direction: column-reverse;
+    width: 100%;
+    margin: 0;
+    padding: 0 20px;
+  }
+  .description {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+  }
+
+  .description span {
+    font-size: 16px;
+    display: block;
+    margin-bottom: 10px;
+    font-size: 14px;
+    line-height: 25px;
+    width: 100%;
+    padding: 0;
+  }
+  .description a button,
+  .description a {
+    margin: 20px auto 15px auto;
+    font-size: 17px;
+  }
+  .aboutMe p,
+  .container__PROJECTS p {
+    font-size: 16px;
+    line-height: 26px;
+    width: 80%;
+    font-family: inherit;
+  }
+
+  .contacto {
+    width: 60vw;
+  }
+
+  .footerContainer {
+    height: 110vh;
+    align-items: flex-start;
+  }
+
+  .menu-btn svg {
+    position: fixed;
+    top: 3vh;
+    z-index: 2;
+    right: 3vw;
+
+    font-size: 3vw;
+  }
+  .contacto {
+    width: 85%;
+    padding: 10px;
+  }
+  .contactoTitle h5 {
+    font-size: 30px;
+    margin-bottom: 10px;
+    color: #92a89e;
+  }
+}
+@media (max-width: 800px) {
+  .Principal {
+    grid-template-areas: "principal_II" "Presentacion";
+  }
+  .wrapper ul li {
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+  }
+
+  .wrapper ul {
+    position: absolute;
+    top: 60%;
+    left: 80%;
+  }
+  .Presentacion__1 h1 {
+    width: 90%;
+    font-size: 9vw;
+    text-align: center;
+  }
+  .Presentacion__1 p {
+    display: block;
+    width: 90%;
+    font-size: 16px;
+    text-align: justify;
+  }
+  .Presentacion__2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .Presentacion__2 span {
+    font-size: 12px;
+    margin: 5% 3%;
+    width: 90%;
+    font-family: cursive;
+    font-weight: 600;
+  }
+  .principal_II img {
+    position: relative;
+    width: 50%;
+    transition: all 1s;
+    left: 35%;
+    top: -55%;
+  }
+  .principal_II {
+    padding: 0 20px;
+  }
+}
