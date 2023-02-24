@@ -14,7 +14,8 @@ span,
 a,
 button,
 input {
-  font-family: cursive;
+  font-family: 'EB Garamond', serif;
+  font-weight: 500;
 }
 body {
   background-color: #ffffff;

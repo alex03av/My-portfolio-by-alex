@@ -148,10 +148,9 @@ font-size: 13px;
     position: relative;
     width: 50%;
     transition: all 1s;
-    left: 35%;
-    top: -50%;
+    left: 0;
+    top: 20%;
+    transform: translate(50%);
   }
-  .principal_II {
-    padding: 0 20px;
-  }
+
 }
