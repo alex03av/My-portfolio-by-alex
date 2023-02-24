@@ -14,7 +14,7 @@ function PROJECTS() {
             <div className="img">
               <img /*https://github.com/alex03av/My-portfolio-by-alex/blob/master/src/img/Pro/0.png?raw=true
                */
-                src={`https://github.com/alex03av/My-portfolio-by-alex/blob/master/src/img/Pro/${datos.img}?raw=true`}
+                src={`https://raw.githubusercontent.com/alex03av/My-portfolio-by-alex/master/src/img/Pro/${datos.img}`}
                 className="pc"
                 alt={datos.title}
               ></img>
