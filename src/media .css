@@ -21,7 +21,6 @@
   }
   .getMe p {
     font-size: 15px;
-
     margin-top: 20px;
   }
   .title h3 {
@@ -43,9 +42,7 @@
     overflow: visible;
     margin: 0;
   }
-  .img {
-    width: 120%;
-  }
+ 
   .skillsmeMe {
     
     grid-template-columns: repeat(3, 90px);
@@ -107,14 +104,7 @@ font-size: 13px;
     align-items: flex-start;
   }
 
-  .menu-btn svg {
-    position: fixed;
-    top: 3vh;
-    z-index: 2;
-    right: 3vw;
-
-    font-size: 3vw;
-  }
+ 
   .contacto {
     width: 85%;
     padding: 10px;
@@ -129,16 +119,8 @@ font-size: 13px;
   .Principal {
     grid-template-areas: "principal_II" "Presentacion";
   }
-  .wrapper ul li {
-    font-size: 16px;
-    margin: 0;
-    padding: 0;
-  }
-
-  .wrapper ul {
-    position: absolute;
-    top: 60%;
-    left: 80%;
+  .img {
+    width: 100%;
   }
   .Presentacion__1 h1 {
     width: 90%;
@@ -158,20 +140,19 @@ font-size: 13px;
     align-items: center;
   }
   .Presentacion__2 span {
-    font-size: 12px;
+    font-size: 16px;
     margin: 5% 3%;
     width: 90%;
-    font-family: cursive;
-    font-weight: 600;
   }
   .principal_II img {
     position: relative;
     width: 50%;
     transition: all 1s;
     left: 35%;
-    top: -55%;
+    top: -50%;
   }
   .principal_II {
     padding: 0 20px;
+    background-color: ;
   }
 }
