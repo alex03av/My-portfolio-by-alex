@@ -15,7 +15,7 @@ function PROJECTS() {
               <img /*C:\Users\AlexanderAraujo\Desktop\Portafolio-React\src\img\Prosrc\img\Pro\1.png
               C:\Users\AlexanderAraujo\Desktop\Portafolio-React\src\img\Pro\0.png
                */
-                src={`Portafolio-React/../src/img/Pro/${datos.img}`}
+                src={`https://alex03av.github.io/My-portfolio-by-alex//src/img/Pro/${datos.img}`}
                 className="pc"
                 alt={datos.title}
               ></img>
