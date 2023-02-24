@@ -13,8 +13,9 @@ function PROJECTS() {
           <div className={datos.id%2==0?"containerProyests":"containertwo"} key={datos.id}>
             <div className="img">
               <img /*C:\Users\AlexanderAraujo\Desktop\Portafolio-React\src\img\Prosrc\img\Pro\1.png
+              C:\Users\AlexanderAraujo\Desktop\Portafolio-React\src\img\Pro\0.png
                */
-                src={`../../src/img/Pro/${datos.img}`}
+                src={`Portafolio-React/../src/img/Pro/${datos.img}`}
                 className="pc"
                 alt={datos.title}
               ></img>
