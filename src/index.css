@@ -9,7 +9,7 @@
 
 .contacto {
   width: 25%;
-
+  font-family:  'EB Garamond', serif;
   margin: 20px auto;
   background-color: #00000059;
   padding: 2vw;
@@ -30,6 +30,7 @@
   text-align: justify;
   color: #f3efe0;
   font-size: 15px;
+  font-family:  'EB Garamond', serif;;
 }
 .contacto form {
   display: grid;

@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Sevillana&display=swap');
+
 * {
   margin: 0;
   padding: 0;
@@ -256,6 +257,8 @@ input[type="checkbox"] {
   margin: auto;
   text-align: justify;
   font-size: 20px;
+  font-family:  'EB Garamond', serif;
+
 }
 .getMe,
 .skillsMe {

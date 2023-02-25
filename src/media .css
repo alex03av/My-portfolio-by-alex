@@ -92,7 +92,6 @@ font-size: 13px;
     font-size: 16px;
     line-height: 26px;
     width: 80%;
-    font-family: inherit;
   }
 
   .contacto {
@@ -145,11 +144,11 @@ font-size: 13px;
     width: 90%;
   }
   .principal_II img {
-    position: relative;
+    position:  relative;
     width: 50%;
     transition: all 1s;
     left: 0;
-    top: 20%;
+    top: 5vh;
     transform: translate(50%);
   }
 
