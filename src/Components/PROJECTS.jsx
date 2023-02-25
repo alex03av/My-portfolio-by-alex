@@ -14,8 +14,10 @@ function PROJECTS() {
             <div className="img">
               <img /*
               C:\Users\AlexanderAraujo\Desktop\Portafolio-React\public\Pro\1.png
+
+              C:\Users\AlexanderAraujo\Desktop\Portafolio-React\public\Pro\0.png
               */
-                src={`/public/Pro/${datos.img}`}
+                src={`../../public/Pro/${datos.img}`}
                 className="pc"
                 alt={datos.title}
               ></img>

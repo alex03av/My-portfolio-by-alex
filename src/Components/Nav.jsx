@@ -7,11 +7,11 @@ function Nav() {
   return (
     <div>
       <input type="checkbox" id="active" />
-      <label for="active" class="menu-btn">
+      <label for="active" className="menu-btn">
         <span></span>
       </label>
-      <label for="active" class="close"></label>
-      <div class="wrapper">
+      <label for="active" className="close"></label>
+      <div className="wrapper">
         <ul>
           <li>
             <a href="#Home">HOME</a>
