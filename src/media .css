@@ -56,8 +56,6 @@ font-size: 13px;
   }
   .container__PROJECTS {
     font-size: 20px;
-    margin: 0;
-    padding: 0;
   }
   .containerProyests,
   .containertwo {
@@ -65,7 +63,7 @@ font-size: 13px;
     flex-direction: column-reverse;
     width: 100%;
     margin: 0;
-    padding: 0 20px;
+    padding: 10px 20px;
   }
   .description {
     margin: 0;
@@ -146,6 +144,18 @@ font-size: 13px;
     margin: 5% 3%;
     width: 90%;
   }
+  .principal_II{
+     background-color: #00000075;
+  }
+  .name{
+    display: block;
+    color: aliceblue;
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    top: 32%;
+    right: 0;
+font-size: 35px;  }
   .principal_II img {
     position:  relative;
     width: 50%;
@@ -153,6 +163,7 @@ font-size: 13px;
     left: 0;
     top: 5vh;
     transform: translate(50%);
+   
   }
 
 }

@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,500,300,700);
 
 .footerContainer {
-  background-color: #354259;
+  background-color: #ffffff31;
   min-height: 100vh;
   display: grid;
   align-items: flex-end;
@@ -11,7 +11,7 @@
   width: 25%;
   font-family:  'EB Garamond', serif;
   margin: 20px auto;
-  background-color: #00000059;
+  background-color: #0000007e;
   padding: 2vw;
   box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
 }
@@ -24,11 +24,11 @@
 .contactoTitle h5 {
   font-size: 3vw;
   margin-bottom: 10px;
-  color: #92a89e;
+  color: #ffffff;
 }
 .contacto p {
   text-align: justify;
-  color: #f3efe0;
+  color: #ffffff;
   font-size: 15px;
   font-family:  'EB Garamond', serif;;
 }
@@ -42,48 +42,48 @@ form input,
 form button {
   font-size: 15px;
   padding: 5px;
-  background-color: #92a89e;
+  background-color: #0000003d;
   border: none;
-  border-bottom: #c2ded1 1px solid;
+  border-bottom: #d8d8d8 1px solid;
 }
 form label {
   font-weight: 400;
   font-size: 20px;
   margin: 10px 0;
-  color: #92a89e;
+  color: #ffffff;
 }
 form textarea {
-  color: #272c2a;
+  color: #ffffff;
   max-width: 100%;
   min-width: 100%;
   min-height: 15vh;
   max-height: 10vw;
   border: none;
-  border-bottom: #c2ded17e 2px solid;
-  background-color: #92a89e;
+  border-bottom: #ffffff7e 2px solid;
+  background-color: #00000048;
 }
 form button {
-  background-color: #c2ded1;
+  background-color: #ffffffa2;
   margin: 5vh 0;
   font-size: 16px;
 }
 
 form input::placeholder,
 textarea::placeholder {
-  color: #f3efe0;
+  color: #ffffff;
   font-size: 14px;
   border: none;
 }
 form button:active {
-  background-color: #64746c;
-  color: antiquewhite;
+  background-color: #797979;
+  color: rgb(255, 255, 255);
 }
 
 form button:hover {
-  background-color: #92a89e;
+  background-color: #4646461f;
 }
 .footer-distributed {
-  background-color: #92a89e;
+  background-color: #ffffffa9;
   box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
   box-sizing: border-box;
   width: 100%;
@@ -93,7 +93,7 @@ form button:hover {
 }
 
 .footer-distributed .footer-left p {
-  color: #c2ded1;
+  color: #000000;
   font-size: 14px;
   margin: 0;
 }
@@ -102,7 +102,7 @@ form button:hover {
 .footer-distributed p.footer-links {
   font-size: 18px;
   font-weight: bold;
-  color: #f3efe0;
+  color: #000000;
   margin: 0 0 10px;
   padding: 0;
   transition: ease 0.25s;
@@ -120,7 +120,7 @@ form button:hover {
   content: "·";
   font-size: 20px;
   left: 0;
-  color: #fff;
+  color: #000000;
   display: inline-block;
   padding-right: 5px;
 }
@@ -144,7 +144,7 @@ form button:hover {
   height: 35px;
   border-radius: 2px;
   font-size: 20px;
-  color: #ffffff;
+  color: #000000;
   text-align: center;
   line-height: 35px;
   margin-left: 3px;

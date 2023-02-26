@@ -25,10 +25,9 @@ function Nav() {
           <li>
             <a href="#contacto">CONTACTO</a>
           </li>
-         
         </ul>
       </div>
-     
+
       <div className="Principal" id="Home">
         <div className="Presentacion">
           <div className="Presentacion__1">
@@ -52,7 +51,8 @@ function Nav() {
           </div>
         </div>
         <div className="principal_II">
-        {!active ? <img src={imgme} alt="Alexander Araujo"  /> : ""}
+          {!active ? <img src={imgme} alt="Alexander Araujo" /> : ""}{" "}
+          <h2 className="name">Alexander Araujo</h2>
         </div>
       </div>
     </div>
