@@ -42,17 +42,16 @@
     overflow: visible;
     margin: 0;
   }
- 
+
   .skillsmeMe {
-    
     grid-template-columns: repeat(3, 90px);
     grid-template-rows: repeat(3, 30%);
     justify-content: center;
     align-items: center;
     grid-gap: 15px;
   }
-  .skillsmeMe span{
-font-size: 13px;
+  .skillsmeMe span {
+    font-size: 13px;
   }
   .container__PROJECTS {
     font-size: 20px;
@@ -101,7 +100,6 @@ font-size: 13px;
     align-items: flex-start;
   }
 
- 
   .contacto {
     width: 85%;
     padding: 10px;
@@ -119,8 +117,8 @@ font-size: 13px;
   .img {
     width: 140%;
   }
-  .container__PROJECTS{
-  overflow: hidden;
+  .container__PROJECTS {
+    overflow: hidden;
   }
   .Presentacion__1 h1 {
     width: 90%;
@@ -144,11 +142,11 @@ font-size: 13px;
     margin: 5% 3%;
     width: 90%;
   }
-  .principal_II{
-     background-color: #00000075;
-     padding: 8vh 0;
+  .principal_II {
+    background-color: #00000075;
+    padding: 8vh 0;
   }
-  .name{
+  .name {
     display: block;
     color: aliceblue;
     text-align: center;
@@ -156,15 +154,14 @@ font-size: 13px;
     width: 100%;
     top: 4vh;
     right: 0;
-font-size: 35px; 
-  }  .principal_II img {
-    position:  relative;
+    font-size: 35px;
+  }
+  .principal_II img {
+    position: relative;
     width: 50%;
     transition: all 1s;
     left: 0;
-    top: 5vh;
+    top: 0;
     transform: translate(50%);
-   
   }
-
 }
