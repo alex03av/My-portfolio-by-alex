@@ -12,12 +12,10 @@ function PROJECTS() {
         return (//
           <div className={datos.id%2==0?"containerProyests":"containertwo"} key={datos.id}>
             <div className="img">
-              <img /*
-              C:\Users\AlexanderAraujo\Desktop\Portafolio-React\public\Pro\1.png
-
-              C:\Users\AlexanderAraujo\Desktop\Portafolio-React\public\Pro\0.png
-              */
-                src={`../public/Pro/${datos.img}`}
+              <img /*https://github.com/alex03av/My-portfolio-by-alex/blob/master/src/img/Pro/0.png?raw=true
+               C:\Users\AlexanderAraujo\Desktop\Portafolio-React\src\img\Pro\0.png
+               */
+                src={`src/img/Pro/${datos.img}`}
                 className="pc"
                 alt={datos.title}
               ></img>
