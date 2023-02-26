@@ -146,17 +146,18 @@ font-size: 13px;
   }
   .principal_II{
      background-color: #00000075;
+     padding: 8vh 0;
   }
   .name{
     display: block;
     color: aliceblue;
     text-align: center;
-    position: absolute;
+    position: relative;
     width: 100%;
-    top: 32%;
+    top: 4vh;
     right: 0;
-font-size: 35px;  }
-  .principal_II img {
+font-size: 35px; 
+  }  .principal_II img {
     position:  relative;
     width: 50%;
     transition: all 1s;
