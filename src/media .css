@@ -119,7 +119,10 @@ font-size: 13px;
     grid-template-areas: "principal_II" "Presentacion";
   }
   .img {
-    width: 100%;
+    width: 140%;
+  }
+  .container__PROJECTS{
+  overflow: hidden;
   }
   .Presentacion__1 h1 {
     width: 90%;
