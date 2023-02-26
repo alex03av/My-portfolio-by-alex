@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,500,300,700);
 
 .footerContainer {
-  background-color: #ffffff31;
+  background-color: #85858531;
   min-height: 100vh;
   display: grid;
   align-items: flex-end;
@@ -83,7 +83,7 @@ form button:hover {
   background-color: #4646461f;
 }
 .footer-distributed {
-  background-color: #ffffffa9;
+  background-color: #3563b97a;
   box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
   box-sizing: border-box;
   width: 100%;
@@ -93,7 +93,7 @@ form button:hover {
 }
 
 .footer-distributed .footer-left p {
-  color: #000000;
+  color: #ffffff;
   font-size: 14px;
   margin: 0;
 }
