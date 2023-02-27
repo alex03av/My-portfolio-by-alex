@@ -26,11 +26,11 @@ export const Datos = [
 
   {
     id: 3,
-    img: "3.png",
+    img: "Task.png",
     title: "Lista De Tareas en ReactJS",
     description:
       "Cuando estamos aprendiendo REACT-JS uno de los primeros proyectos que realizamos para aprender los funcionamientos básicos de la librería, es una lista de tareas📓, esta es un herramienta para anotar las cosas que quiere hacer, necesita hacer o puede hacer.  Si nos fijamos bien, estas listas son en realidad una extensión de nuestra memoria, ya que al utilizarlas liberamos espacio y recursos en nuestra mente..",
-    link: "#",
+    link: "https://alex03av.github.io/react-lista-de-tarea/",
   },
   {
     id: 4,
@@ -47,7 +47,7 @@ export const Datos = [
     title: "Máquina De Frases Aleatorias En ReactJS",
     description:
       "Este proyecto nos muestra una frase aleatoria con su autor y un color de fondo diferente, además de un botón que cambia de una frase a otra totalmente distinta a la anterior, cuenta con tres opciones diferente de compartir, las cuales son WhatsApp, Facebook y tmbler, esta es la segunda versión del proyecto “Máquina De Frases Aleatorias” la primera fue realizada en JavaScript y esta versión fue hecha en REACT-JS.",
-    link: "#",
+    link: "https://alex03av.github.io/frases-react/",
   },
   {
     id: 6,
