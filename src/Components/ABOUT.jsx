@@ -1,5 +1,5 @@
 import React from "react";
-import imgskill from "../img/Contenido.png"
+import imgskill from "../img/Contenido.png";
 function ABOUT() {
   return (
     <div className="container__about" id="about">
@@ -42,7 +42,7 @@ function ABOUT() {
           <h3>Mis habilidades</h3>
           <div className="skillsmeMe">
             {" "}
-            <span className="item1">JavaScript</span>
+            <span >JavaScript</span>
             <span>HTML5</span>
             <span>CSS</span>
             <span>PHP</span>

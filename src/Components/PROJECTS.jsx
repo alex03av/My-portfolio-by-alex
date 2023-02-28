@@ -19,9 +19,7 @@ function PROJECTS() {
             key={datos.id}
           >
             <div className="img">
-              <img /*https://github.com/alex03av/My-portfolio-by-alex/blob/master/src/img/Pro/0.png?raw=true
-               C:\Users\AlexanderAraujo\Desktop\Portafolio-React\src\img\Pro\0.png
-               */
+              <img 
                 src={`Pro/${datos.img}`}
                 className="pc"
                 alt={datos.title}

@@ -4,36 +4,44 @@ export const Datos = [
     img: "marvel-api.png",
     title: "Sitio web - API oficial de Marvel",
     description:
-      "Sitio web de búsqueda de cómics, personajes, series, creadores, eventos e historias que utiliza la API oficial de Marvel para obtener los datos que se muestran en el sitio web, cada búsqueda cuenta con diferentes características, fue desarrollado en REACT-JS y se encuentra alojado en GitHub Pages.",
+      "Sitio web de búsqueda de cómics, personajes, series, creadores, eventos e historias que utiliza la API oficial de Marvel para obtener los datos que se muestran en el sitio web, cada búsqueda cuenta con diferentes características, fue desarrollado en REACT-JS.",
     link: "https://alex03av.github.io/react-marvel-api/",
   },
   {
-    id: 1 /*src\img\Pro\1.png* */,
-    img: "calculator.png",
-    title: "Calculadora en ReactJS",
-    description:
-      "La Calculadora🧮, es uno de los proyectos mas comunes a la hora de aprender a programar en el FRONT-END esta fue desarrollada en REACT-J’S, este proyectos aparte de tener las operaciones básicas de una calculadora simple como lo son la suma, resta ,multiplicación, división, retroceder y borrar todo🔁, cuenta a su vez nos ofreces más opciones  como exponente a la 2 y n, raíz cuadrada..",
-    link: "https://alex03av.github.io/calculator-reat/",
-  },
-  {
-    id: 2,
+    id: 1,
     img: "unit.png",
     title: "Unit Converter En ReactJS",
     description:
       "Unit Converter, o en español Convertidor de unidades, es un proyecto que funciona con React-Js , este a su vez cuenta con cinco tipos de conversión basicas fundamentales, las cuales son longitud, temperatura, área, peso y tiempo, cada uno de ellas nos ofrece diferentes opciones de conversión Unidades.",
     link: "https://alex03av.github.io/Unit-Converter-react/",
   },
-
+  {
+    id: 2,
+    img: "api-clima.png",
+    title: "Simple Weather App En ReactJS",
+    description:
+      "App de pronóstico climático realiza consultas a una API y devuelve el pronóstico solicitado, con la información actual del pronóstico, temperatura en grados centígrados y grados Celsius, sensación y humedad, al igual que nos muestra un pequeño mapa de la ciudad consultada, esta es la versión simple y básica de la app Werther API y fue desarrollada en REACT-JS.",
+    link: "https://alex03av.github.io/clima-react/",
+  },
   {
     id: 3,
+    img: "calculator.png",
+    title: "Calculadora en ReactJS",
+    description:
+      "La Calculadora🧮, es uno de los proyectos mas comunes a la hora de aprender a programar en el FRONT-END esta fue desarrollada en REACT-J’S, este proyectos aparte de tener las operaciones básicas de una calculadora simple como lo son la suma, resta ,multiplicación, división, retroceder y borrar todo🔁, cuenta a su vez nos ofreces más opciones  como exponente a la 2 y n, raíz cuadrada..",
+    link: "https://alex03av.github.io/calculator-reat/",
+  },
+
+  {
+    id: 4,
     img: "Task.png",
     title: "Lista De Tareas en ReactJS",
     description:
-      "Cuando estamos aprendiendo REACT-JS uno de los primeros proyectos que realizamos para aprender los funcionamientos básicos de la librería, es una lista de tareas📓, esta es un herramienta para anotar las cosas que quiere hacer, necesita hacer o puede hacer.  Si nos fijamos bien, estas listas son en realidad una extensión de nuestra memoria, ya que al utilizarlas liberamos espacio y recursos en nuestra mente..",
+      "lista de tareas📓, esta es un herramienta para anotar las cosas que quiere hacer, necesita hacer o puede hacer.  Si nos fijamos bien, estas listas son en realidad una extensión de nuestra memoria, ya que al utilizarlas liberamos espacio y recursos en nuestra mente..",
     link: "https://alex03av.github.io/react-lista-de-tarea/",
   },
   {
-    id: 4,
+    id: 5,
     img: "bateria.png",
     title: "Caja De Ritmo En ReactJS",
     description:
@@ -42,21 +50,14 @@ export const Datos = [
   },
 
   {
-    id: 5,
+    id: 6,
     img: "5.png",
     title: "Máquina De Frases Aleatorias En ReactJS",
     description:
       "Este proyecto nos muestra una frase aleatoria con su autor y un color de fondo diferente, además de un botón que cambia de una frase a otra totalmente distinta a la anterior, cuenta con tres opciones diferente de compartir, las cuales son WhatsApp, Facebook y tmbler, esta es la segunda versión del proyecto “Máquina De Frases Aleatorias” la primera fue realizada en JavaScript y esta versión fue hecha en REACT-JS.",
     link: "https://alex03av.github.io/frases-react/",
   },
-  {
-    id: 6,
-    img: "api-clima.png",
-    title: "Simple Weather App En ReactJS",
-    description:
-      "App de pronóstico climático realiza consultas a una API y devuelve el pronóstico , con la información actual del pronóstico, temperatura en grados centígrados y grados Celsius, sensación y humedad, al igual que nos muestra un pequeño mapa de la ciudad consultada, esta es la versión simple y básica de la app Werther API y fue desarrollada en REACT-JS.",
-    link: "https://alex03av.github.io/clima-react/",
-  },
+
   {
     id: 7,
     img: "7.png",

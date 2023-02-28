@@ -33,8 +33,7 @@ function Nav() {
           <div className="Presentacion__1">
             <h1>Desarrollador Junior Front-End.</h1>
             <p>
-              "La educación es el pasaporte hacia el futuro, el mañana pertenece
-              a quienes lo preparan hoy."
+              "El secreto para salir adelante es comenzar, Lo único imposible es aquello que no intentas."
             </p>
           </div>
           <div className="Presentacion__2">
@@ -46,7 +45,7 @@ function Nav() {
             <span>
               Habilidades intermedias en mejora progresiva constante, aprendo
               rápido y puedo adquirir nuevas habilidades y adaptarme a
-              diferentes proyectos y roles con relativa facilidad.
+              diferentes proyectos y roles.
             </span>
           </div>
         </div>
