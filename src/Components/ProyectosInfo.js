@@ -1,7 +1,7 @@
 export const Datos = [
   {
     id: 0,
-    img: "0.png",
+    img: "marvel-api.png",
     title: "Sitio web - API oficial de Marvel",
     description:
       "Sitio web de búsqueda de cómics, personajes, series, creadores, eventos e historias que utiliza la API oficial de Marvel para obtener los datos que se muestran en el sitio web, cada búsqueda cuenta con diferentes características, fue desarrollado en REACT-JS y se encuentra alojado en GitHub Pages.",
