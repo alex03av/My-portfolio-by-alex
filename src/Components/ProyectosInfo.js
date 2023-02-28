@@ -34,7 +34,7 @@ export const Datos = [
   },
   {
     id: 4,
-    img: "2.png",
+    img: "bateria.png",
     title: "Caja De Ritmo En ReactJS",
     description:
       "Una caja de ritmos🎵 es un instrumento musical capaz de reproducir sonidos o muestras de sonido que tiene registrados en cada uno de sus pads, este proyecto cuenta con dos kits de sonidos los cuales son heater kit y smooth piano kit, cada kit cuenta con 8 sonidos diferentes en sus pads, combinables para crear un sonido único, un proyecto simple de realizar este en particular fue desarrollado en REACT-JS y estilizado con CSS.",
