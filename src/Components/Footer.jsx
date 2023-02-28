@@ -36,8 +36,7 @@ function Footer() {
         <div className="contactoTitle">
           <h5>CONTACTO</h5>
           <p>
-            No dude en ponerse en contacto conmigo enviando el siguiente
-            formulario y me pondré en contacto con usted lo antes posible.
+            No dude en ponerse en contacto conmigo enviando un correo en el siguiente formulario asi me pondré en contacto con usted lo antes posible.
           </p>
         </div>
 
@@ -51,7 +50,7 @@ function Footer() {
           />
           <label>Email</label>
           <input
-            placeholder=" Introduzca Su Dirección De Correo Electrónico
+            placeholder=" Ingrese Su Dirección De Correo Electrónico
             
             "
             type="email"
