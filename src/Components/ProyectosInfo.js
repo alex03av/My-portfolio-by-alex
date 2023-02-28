@@ -51,7 +51,7 @@ export const Datos = [
   },
   {
     id: 6,
-    img: "6.png",
+    img: "api-clima.png",
     title: "Simple Weather App En ReactJS",
     description:
       "App de pronóstico climático realiza consultas a una API y devuelve el pronóstico , con la información actual del pronóstico, temperatura en grados centígrados y grados Celsius, sensación y humedad, al igual que nos muestra un pequeño mapa de la ciudad consultada, esta es la versión simple y básica de la app Werther API y fue desarrollada en REACT-JS.",
