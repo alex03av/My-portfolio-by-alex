@@ -28,12 +28,18 @@ function Nav() {
         </ul>
       </div>
 
-      <div className="Principal" id="Home">
+      <div
+        className="Principal"
+        id="Home"
+        data-aos="zoom-in"
+        data-aos-duration="2000"
+      >
         <div className="Presentacion">
           <div className="Presentacion__1">
             <h1>Desarrollador Junior Front-End.</h1>
             <p>
-              "El secreto para salir adelante es comenzar, Lo único imposible es aquello que no intentas."
+              "El secreto para salir adelante es comenzar, Lo único imposible es
+              aquello que no intentas."
             </p>
           </div>
           <div className="Presentacion__2">

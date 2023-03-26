@@ -3,7 +3,17 @@ import { Datos } from "./ProyectosInfo";
 function PROJECTS() {
   console.log(Datos);
   return (
-    <div className="container__PROJECTS" id="Proyects">
+    <div
+      className="container__PROJECTS"
+      id="Proyects"
+      data-aos="fade-up"
+      data-aos-offset="200"
+      data-aos-delay="50"
+      data-aos-duration="1000"
+      data-aos-easing="ease-in-out"
+      data-aos-mirror="true"
+      data-aos-once="false"
+    >
       <div className="title">
         <h3>PROYECTOS</h3>
         <p>
@@ -17,9 +27,12 @@ function PROJECTS() {
           <div
             className={datos.id % 2 == 0 ? "containerProyests" : "containertwo"}
             key={datos.id}
+            data-aos={datos.id % 2 == 0 ? "fade-left" : "fade-right"}
+            data-aos-duration="3000"
+            data-aos-once="true"
           >
             <div className="img">
-              <img 
+              <img
                 src={`Pro/${datos.img}`}
                 className="pc"
                 alt={datos.title}

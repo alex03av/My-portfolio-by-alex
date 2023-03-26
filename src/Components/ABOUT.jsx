@@ -2,7 +2,17 @@ import React from "react";
 import imgskill from "../img/Contenido.png";
 function ABOUT() {
   return (
-    <div className="container__about" id="about">
+    <div
+      className="container__about"
+      id="about"
+      data-aos="fade-up"
+      data-aos-offset="200"
+      data-aos-delay="50"
+      data-aos-duration="1000"
+      data-aos-easing="ease-in-out"
+      data-aos-mirror="true"
+      data-aos-once="false"
+    >
       <div className="aboutMe">
         <h3>ACERCA DE MÍ</h3>
         <p>
@@ -42,7 +52,7 @@ function ABOUT() {
           <h3>Mis habilidades</h3>
           <div className="skillsmeMe">
             {" "}
-            <span >JavaScript</span>
+            <span>JavaScript</span>
             <span>HTML5</span>
             <span>CSS</span>
             <span>PHP</span>

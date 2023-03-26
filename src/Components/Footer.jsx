@@ -32,11 +32,13 @@ function Footer() {
 
   return (
     <div className="footerContainer" id="contacto">
-      <div className="contacto">
+      <div className="contacto" data-aos="zoom-in" data-aos-duration="2000">
         <div className="contactoTitle">
           <h5>CONTACTO</h5>
           <p>
-            No dude en ponerse en contacto conmigo enviando un correo en el siguiente formulario asi me pondré en contacto con usted lo antes posible.
+            No dude en ponerse en contacto conmigo enviando un correo en el
+            siguiente formulario asi me pondré en contacto con usted lo antes
+            posible.
           </p>
         </div>
 
@@ -83,7 +85,10 @@ function Footer() {
           >
             <FaInstagram />
           </a>
-          <a href="https://www.linkedin.com/in/alexander-araujo-03840a258" target="_blank">
+          <a
+            href="https://www.linkedin.com/in/alexander-araujo-03840a258"
+            target="_blank"
+          >
             <FaLinkedin />
           </a>
         </div>
