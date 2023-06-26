@@ -4,7 +4,7 @@ export const Datos = [
     img: "marvel-api.png",
     title: "Sitio web - API oficial de Marvel",
     description:
-      "Sitio web de búsqueda de cómics, personajes, series, creadores, eventos e historias que utiliza la API oficial de Marvel para obtener los datos que se muestran en el sitio web, cada búsqueda cuenta con diferentes características, fue desarrollado en REACT-JS.",
+      "Este sitio web ofrece una plataforma de búsqueda para cómics, personajes, series, creadores, eventos e historias. Utiliza la API oficial de Marvel para obtener y mostrar información precisa y actualizada. Cada búsqueda cuenta con diferentes características y opciones para personalizar los resultados. El sitio fue desarrollado utilizando la tecnología REACT-JS.",
     link: "https://alex03av.github.io/react-marvel-api/",
   },
   {
@@ -12,7 +12,7 @@ export const Datos = [
     img: "unit.png",
     title: "Unit Converter En ReactJS",
     description:
-      "Unit Converter, o en español Convertidor de unidades, es un proyecto que funciona con React-Js , este a su vez cuenta con cinco tipos de conversión basicas fundamentales, las cuales son longitud, temperatura, área, peso y tiempo, cada uno de ellas nos ofrece diferentes opciones de conversión Unidades.",
+      "Unit Converter (Convertidor de Unidades en español) es un proyecto desarrollado con React-Js que ofrece cinco tipos de conversiones fundamentales: longitud, temperatura, área, peso y tiempo. Cada una de estas categorías ofrece diferentes opciones de conversión de unidades para satisfacer las necesidades del usuario.",
     link: "https://alex03av.github.io/Unit-Converter-react/",
   },
   {
@@ -20,7 +20,7 @@ export const Datos = [
     img: "api-clima.png",
     title: "Simple Weather App En ReactJS",
     description:
-      "App de pronóstico climático realiza consultas a una API y devuelve el pronóstico solicitado, con la información actual del pronóstico, temperatura en grados centígrados y grados Celsius, sensación y humedad, al igual que nos muestra un pequeño mapa de la ciudad consultada, esta es la versión simple y básica de la app Werther API y fue desarrollada en REACT-JS.",
+      "La aplicación de pronóstico climático Werther API realiza consultas a una API para proporcionar información actualizada sobre el clima en la ciudad solicitada. La aplicación muestra la temperatura en grados centígrados y Fahrenheit, la sensación térmica y la humedad, así como un pequeño mapa de la ciudad consultada. Esta es la versión básica de la aplicación, desarrollada en REACT-JS.",
     link: "https://alex03av.github.io/clima-react/",
   },
   {
@@ -28,7 +28,7 @@ export const Datos = [
     img: "calculator.png",
     title: "Calculadora en ReactJS",
     description:
-      "La Calculadora🧮, es uno de los proyectos mas comunes a la hora de aprender a programar en el FRONT-END esta fue desarrollada en REACT-J’S, este proyectos aparte de tener las operaciones básicas de una calculadora simple como lo son la suma, resta ,multiplicación, división, retroceder y borrar todo🔁, cuenta a su vez nos ofreces más opciones  como exponente a la 2 y n, raíz cuadrada..",
+      "La Calculadora 🧮 es un proyecto común para aquellos que están aprendiendo a programar en el ámbito del FRONT-END. Esta aplicación, desarrollada en REACT-JS, ofrece las operaciones básicas de una calculadora simple, tales como suma, resta, multiplicación y división. Además, cuenta con opciones para retroceder y borrar todo 🔁. La aplicación también ofrece funciones avanzadas como la potenciación al cuadrado y a cualquier exponente, así como la raíz cuadrada.",
     link: "https://alex03av.github.io/calculator-reat/",
   },
 
@@ -37,7 +37,7 @@ export const Datos = [
     img: "Task.png",
     title: "Lista De Tareas en ReactJS",
     description:
-      "lista de tareas📓, esta es un herramienta para anotar las cosas que quiere hacer, necesita hacer o puede hacer.  Si nos fijamos bien, estas listas son en realidad una extensión de nuestra memoria, ya que al utilizarlas liberamos espacio y recursos en nuestra mente..",
+      "La lista de tareas 📓 es una herramienta útil para anotar y llevar un registro de las cosas que queremos hacer, necesitamos hacer o podemos hacer. Al utilizar esta herramienta, liberamos espacio y recursos en nuestra mente, ya que las listas actúan como una extensión de nuestra memoria. De esta manera, podemos enfocarnos en nuestras tareas sin preocuparnos por olvidar algo importante.",
     link: "https://alex03av.github.io/react-lista-de-tarea/",
   },
   {
@@ -45,7 +45,7 @@ export const Datos = [
     img: "bateria.png",
     title: "Caja De Ritmo En ReactJS",
     description:
-      "Una caja de ritmos🎵 es un instrumento musical capaz de reproducir sonidos o muestras de sonido que tiene registrados en cada uno de sus pads, este proyecto cuenta con dos kits de sonidos los cuales son heater kit y smooth piano kit, cada kit cuenta con 8 sonidos diferentes en sus pads, combinables para crear un sonido único, un proyecto simple de realizar este en particular fue desarrollado en REACT-JS y estilizado con CSS.",
+      "Una caja de ritmos 🎵 es un instrumento musical electrónico que reproduce sonidos o muestras de sonido almacenados en sus pads. Este proyecto en particular cuenta con dos kits de sonidos: el Heater Kit y el Smooth Piano Kit. Cada kit ofrece 8 sonidos diferentes en sus pads, que pueden combinarse para crear ritmos únicos. Este proyecto fue desarrollado en REACT-JS y estilizado con CSS",
     link: "https://alex03av.github.io/bateria-react-ja/",
   },
 
@@ -54,7 +54,7 @@ export const Datos = [
     img: "5.png",
     title: "Máquina De Frases Aleatorias En ReactJS",
     description:
-      "Este proyecto nos muestra una frase aleatoria con su autor y un color de fondo diferente, además de un botón que cambia de una frase a otra totalmente distinta a la anterior, cuenta con tres opciones diferente de compartir, las cuales son WhatsApp, Facebook y tmbler, esta es la segunda versión del proyecto “Máquina De Frases Aleatorias” la primera fue realizada en JavaScript y esta versión fue hecha en REACT-JS.",
+      "Este proyecto, llamado “Máquina de Frases Aleatorias”, muestra una frase aleatoria junto con su autor y un color de fondo diferente cada vez. Cuenta con un botón que permite cambiar a otra frase totalmente distinta a la anterior. Además, ofrece tres opciones para compartir la frase en redes sociales: WhatsApp, Facebook y Tumblr. Esta es la segunda versión del proyecto, desarrollada en REACT-JS. La primera versión fue realizada en JavaScript..",
     link: "https://alex03av.github.io/frases-react/",
   },
 

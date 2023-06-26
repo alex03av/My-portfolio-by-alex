@@ -25,27 +25,28 @@ function ABOUT() {
         <div className="getMe">
           <h3>¡Llegar a conocerme!</h3>{" "}
           <p>
-            ¡Hola! Mi nombre es Alexander Araujo valles, pero mejor llámame Alex
-            😄,Es un gusto el poder saludarte👋🏻 y darte la bienvenida a mi
-            portafolio:
+            ¡Hola! Mi nombre es Alexander Araujo Valles, pero puedes llamarme
+            Alex 😄. Es un placer saludarte 👋🏻 y darte la bienvenida a mi
+            portafolio.
           </p>
           <p>
-            Soy un desarrollador web junior, responsable de construir interfaces
-            web a partir de código que utilizo partiendo de ideas o diseños, con
-            exactitud, realizo la parte frontal que se ve en tu sitio web o en
-            tu aplicación. Incluye el diseño, la distribución del contenido, las
-            funcionalidades y todos los elementos con los que interactúan los
-            usuarios: fuentes, botones, tablas, menús, colores y más. Echa un
-            vistazo a algunos de mis trabajos en la sección de{" "}
-            <a href="#Proyects">Proyectos💼.</a>
+            Soy un desarrollador web junior encargado de construir interfaces
+            web a partir de código, utilizando diseños e ideas previamente
+            establecidas. Mi trabajo consiste en desarrollar la parte frontal de
+            sitios web y aplicaciones, incluyendo el diseño, la distribución del
+            contenido, las funcionalidades y todos los elementos con los que
+            interactúan los usuarios, tales como fuentes, botones, tablas, menús
+            y colores. Le invito a revisar algunos de mis trabajos en la sección
+            de <a href="#Proyects">Proyectos💼.</a>
           </p>
           <p>
-            Estudiante de informática👩🏻‍💻, sistemas y Desarrollador front-end
-            autodidacta, como de la programación en general, Soy una persona
-            apasionada por la tecnología, que le gusta estar actualizándose,
-            capaz de comunicar ideas, responsable, optimista y emprendedor.
-            Comprometido con el desarrollo de los proyectos en los que
-            participo❤️.
+            Soy un estudiante de informática y sistemas, así como un
+            desarrollador Web autodidacta con experiencia en programación en
+            general. Mi pasión por la tecnología me lleva a estar constantemente
+            actualizado en mi campo de trabajo. Poseo habilidades para comunicar
+            mis ideas de manera efectiva y soy una persona responsable,
+            optimista y emprendedora. Me encuentro plenamente comprometido con
+            el desarrollo de los proyectos en los que participo.
           </p>
         </div>
         <div className="skillsMe">

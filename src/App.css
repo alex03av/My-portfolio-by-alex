@@ -19,7 +19,7 @@ input {
   font-weight: 500;
 }
 body {
-  background-image: url("../fondo.jpg");
+  background-color: #1a1a1a;
   background-repeat: repeat;
 }
 body::-webkit-scrollbar {
@@ -221,7 +221,7 @@ input[type="checkbox"] {
 
 .principal_II {
   grid-area: principal_II;
-  background-color: #3563b97a;
+  background-color: #ffffff;
   border-radius: 4px;
 }
 .principal_II img {
@@ -237,8 +237,8 @@ input[type="checkbox"] {
 
 .container__about,
 .container__about a {
-  background: #3563b942;
-  color: #ffffffde;
+  background: #ffffff;
+  color: #1a1a1a;
   margin-bottom: 10vh;
   min-height: 100vh;
 }
